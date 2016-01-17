@@ -2,4 +2,4 @@
 
 git pull origin master
 
-cp -rf ./Data "~/Library/Application Support/GoAgentX/"
+cp -rf ./Data ~/Library/Application\ Support/GoAgentX
