@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-cp -rf "~/Library/Application Support/GoAgentX/Data" ./
+cp -r "~/Library/Application Support/GoAgentX/Data" ./
 
 git add . 
 git commit -m "Update"
